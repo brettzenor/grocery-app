@@ -12,6 +12,8 @@ A simple seed project using [Litstack framework](https://github.com/codyjdalton/
 
 Clone this repo
 
+Test
+
 ```
 > git clone https://github.com/codyjdalton/litstack-seed
 > cd litstack-seed
